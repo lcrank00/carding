@@ -1,0 +1,5 @@
+**----CREDIT CARD FRAUD DETECTION MODEL USING DEEP LEARNING----**
+**----detect the suspicious credit card transactions of a victim with the help of the previous transactions details of teh victim--**
+**----compare those transaction using Matching Algorithm --**
+**----send the alert message to the victim once their credit card or accounbt should be used suspicious even the hacker blocked the victim's message service--**
+**----for alert message we used PROMETHEUS Alert manager ----**
